@@ -8,7 +8,7 @@ COMP66090  Masters Project
 * Start to do research about the project (spend at lest 17 hour week)
 * week 1 - 6 (project lectures and research technique also meet Antoniu Pop)
 * week 7 - 12 (start project - meet supervisor as often as possible)
-* **POP (Project Overview and Plan) - due 11 May 2018 17:00**
+* **POP (Project Overview and Plan) - Deadline 11 May 2018 17:00!!!!**
 
 ### Weekly reviews
 * 2/3 slides about i have done during the that week on the project (it like a standup in away)
